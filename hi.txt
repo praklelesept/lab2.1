@@ -2,7 +2,12 @@ child -> master branch changes here
 <<<<<<< HEAD
 test1
 change 2
+<<<<<<< HEAD
 =======
 change 2
 child update
+>>>>>>> child
+=======
+child update
+child 2
 >>>>>>> child
